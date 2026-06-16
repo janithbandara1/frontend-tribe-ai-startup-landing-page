@@ -22,7 +22,7 @@ export const Header = () => {
               <a href="#" className="text-white/70 hover:text-white transition">
                 Developers
               </a>
-              <a href="#" className="text-white/70 hover:text-white transition">
+              <a href="/pricing" className="text-white/70 hover:text-white transition">
                 Pricing
               </a>
               <a href="#" className="text-white/70 hover:text-white transition">
